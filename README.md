@@ -4,7 +4,7 @@ A AI Developer and Full Stack Web developer🎯  from India.
 - 👨‍💻 Full Stack MERN Developer
 - 📚 What do I believe? Jack of all, Master of some.
 - 📫 How to reach me: [Instagram] [@rohithyarramala](https://instagram.com/rohithyarramala)
-- **Vist :** [@rohithyarramala]https://immortal121.github.io/immortal121/
+- **Vist :** https://immortal121.github.io/immortal121/
 
 **Languages:**  
 
