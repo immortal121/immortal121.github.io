@@ -1,5 +1,5 @@
 ### Hi there, I'm Rohith Yarramala👦,
-A Full Stack Web developer🎯 and designer🎨 from India.
+A AI Developer and Full Stack Web developer🎯  from India.
 
 - 👨‍💻 Full Stack MERN Developer
 - 📚 What do I believe? Jack of all, Master of some.
